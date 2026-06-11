@@ -187,7 +187,7 @@ Authorization: Bearer YOUR_JWT_TOKEN
 ```json
 {
   "success": true,
-  "message": "User logged in successfully"
+  "message": "User logged in successfully"// this shows its successfull
 }
 ```
 
