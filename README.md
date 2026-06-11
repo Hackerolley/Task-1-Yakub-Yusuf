@@ -218,7 +218,7 @@ Authorization: Bearer YOUR_JWT_TOKEN
 
 **Yakub Yusuf olaide**
 
-GitHub: https://github.com/Hackerolley/backend
+GitHub: https://github.com/Hackerolley/Task-1-Yakub-Yusuf-Olaide
 
 Email: yakubyusufolaide@gmail.com
 
